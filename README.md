@@ -18,15 +18,7 @@ This page is visually blended with a romantic background image and contains:
 
 ---
 
-## 📷 Screenshot
 
-> Add screenshot here
-
-```
-![Wedding Invite Screenshot](screenshot.png)
-```
-
----
 
 ## 💡 Features
 
