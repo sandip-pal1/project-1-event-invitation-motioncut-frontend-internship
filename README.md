@@ -62,9 +62,8 @@ project-1-event-invitation-motioncut-frontend-internship/
 
 ## 🚀 Live Demo
 
-> Once GitHub Pages is enabled:
 ```
-https://sandip-pal1.github.io/project-1-event-invitation-motioncut-frontend-internship/
+[https://sandip-pal1.github.io/project-1-event-invitation-motioncut-frontend-internship/](https://sandip-pal1.github.io/project-1-event-invitation-motioncut-frontend-internship/)
 ```
 
 ---
