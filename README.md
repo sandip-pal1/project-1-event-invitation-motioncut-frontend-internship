@@ -59,14 +59,10 @@ project-1-event-invitation-motioncut-frontend-internship/
 💼 LinkedIn: [sandip-pal-7877b9285](https://www.linkedin.com/in/sandip-pal-7877b9285)
 
 ---
-
 ## 🚀 Live Demo
 
-```
-[https://sandip-pal1.github.io/project-1-event-invitation-motioncut-frontend-internship/](https://sandip-pal1.github.io/project-1-event-invitation-motioncut-frontend-internship/)
-```
+[Click here to view the live invitation](https://sandip-pal1.github.io/project-1-event-invitation-motioncut-frontend-internship/)
 
----
 
 ## 📚 Internship Info
 
